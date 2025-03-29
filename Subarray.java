@@ -1,4 +1,4 @@
-public class Sunarray {
+public class Subarray {
     public static void subArray(int numbers[]){
         int totalSum = 0;
         for(int i=0 ; i<numbers.length;i++){
